@@ -1,3 +1,5 @@
+from IPython.display import Image
+
 richtige_laenge = 17
 
 def trenn_die_listen(Liste1, Liste2):
